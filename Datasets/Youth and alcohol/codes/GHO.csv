@@ -1,0 +1,11 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+GHO,SA_0000001520,Legal blood alcohol concentration (BAC) limits,,,
+GHO,SA_0000001759,"15-19 years old, current drinkers (%)",,,
+GHO,SA_0000001781,"15-years old any alcoholic beverage consumed in past 12 months, (%)",,,
+GHO,SA_0000001782,"15-years old first drink at 13 years or younger, (%)",,,
+GHO,SA_0000001783,"15-years old any alcoholic beverage consumed in past 30 days, (%)",,,
+GHO,SA_0000001784,"15-years old, any alcoholic beverage consumed at least once a week, (%)",,,
+GHO,SA_0000001786,"13-15-years old any alcoholic beverage consumed in past 30 days, (%)",,,
+GHO,SA_0000001787,"13-15-years old first drink before age 14, (%)",,,
+GHO,SA_0000001819,Heavy episodic drinking (youth 15 -19 years) past 30 days (%),,,
+GHO,SA_0000001820,"Heavy episodic drinking (youth 15 -19 years), drinkers only, past 30 days (%)",,,

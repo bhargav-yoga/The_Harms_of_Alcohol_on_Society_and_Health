@@ -1,0 +1,8 @@
+Id,IndicatorCode,SpatialDimension,SpatialDimensionValueCode,TimeDimension,TimeDim,DisaggregatingDimension1,DisaggregatingDimension1ValueCode,DisaggregatingDimension2,DisaggregatingDimension2ValueCode,DisaggregatingDimension3,DisaggregatingDimension3ValueCode,DataSourceDimension,DataSourceDimensionValueCode,Value,NumericValue,Low,High,Comments,Date,TimeDimensionValue,TimeDimensionBegin,TimeDimensionEnd
+19763910,SA_0000001745,REGION,EUR,YEAR,2016,,,,,,,,,8.8,,,,,2018-08-30T15:21:31Z,2016,2016-01-01,2016-12-31
+19763912,SA_0000001745,REGION,WPR,YEAR,2016,,,,,,,,,4.7,,,,,2018-08-30T15:21:31Z,2016,2016-01-01,2016-12-31
+19763913,SA_0000001745,REGION,AMR,YEAR,2016,,,,,,,,,8.2,,,,,2018-08-30T15:21:31Z,2016,2016-01-01,2016-12-31
+19763914,SA_0000001745,REGION,EMR,YEAR,2016,,,,,,,,,0.8,,,,,2018-08-30T15:21:32Z,2016,2016-01-01,2016-12-31
+19763915,SA_0000001745,REGION,SEAR,YEAR,2016,,,,,,,,,3.9,,,,,2018-08-30T15:21:32Z,2016,2016-01-01,2016-12-31
+19763916,SA_0000001745,REGION,GLOBAL,YEAR,2016,,,,,,,,,5.1,,,,,2018-08-30T15:21:32Z,2016,2016-01-01,2016-12-31
+20000334,SA_0000001745,REGION,AFR,YEAR,2016,,,,,,,,,3.7,3.7,,,,2018-09-28T09:11:52Z,2016,2016-01-01,2016-12-31
