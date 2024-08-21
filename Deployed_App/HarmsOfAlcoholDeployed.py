@@ -9,7 +9,7 @@ selected_button = "Introduction"
 #     with open(image_path, "rb") as image_file:
 #         return base64.b64encode(image_file.read()).decode()
     
-pathname = "https://github.com/bhargav-yoga/The_Harms_of_Alcohol_on_Society_and_Health/Deployed_App/"
+pathname = "https://github.com/bhargav-yoga/The_Harms_of_Alcohol_on_Society_and_Health/tree/main/Deployed_App/"
 #pathname = "/Users/pranavsharma/Desktop/NEU/Bhargav/"
 
 #side_logo_path = f"{pathname}FinalSideLogo.jpeg"
