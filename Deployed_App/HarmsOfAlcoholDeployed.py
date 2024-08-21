@@ -129,14 +129,14 @@ elif selected_button == "EDA":
     
     # Create tabs for Weather and Time Impact   
     with tab1:
-        st.image(f"{pathname}EDA1.jpeg")
+        st.image(f"{pathname}EDA1.jpeg", caption = "")
         
     with tab2:
-        st.image(f"{pathname}EDA2.jpeg")
+        st.image(f"{pathname}EDA2.jpeg", caption = "")
         
     
     with tab3:
-        st.image(f"{pathname}EDA3.jpeg")
+        st.image(f"{pathname}EDA3.jpeg", caption = "")
     
     with tab4:
         st.write("""
