@@ -1,4 +1,4 @@
-**The Harms of Alcohol on Society and Health **
+The Harms of Alcohol on Society and Health
 
 📜 Overview
 This project explores the societal and health-related consequences of alcohol consumption through data analysis and visualization. It aims to provide a comprehensive understanding of alcohol’s impact using real-world data, with a focus on health outcomes, economic costs, and social implications.
